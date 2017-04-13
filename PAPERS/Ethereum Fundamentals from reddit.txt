@@ -1,0 +1,52 @@
+c# ethereum 
+https://www.youtube.com/channel/UCcoNl8LKOnnfNeek-08-Rkw/videos?view=0&shelf_id=0&sort=dd
+
+As in all blockchains, the chain is a sequence of transactions executed in order. Getting your Dapp on the blockchain is a transaction. 
+Miners work to get your transaction accepted at which point it is available on all nodes.
+Once it is there, you call methods in the Dapp in one of two ways
+1) by sending transactions which specify * The Dapp (by address) * The method to call (by ABI hash) * The data (parameters) to send to this method
+
+Once the transaction is mined, this causes every node to execute the Dapp's method to come up with the current state of the Dapp's data space.
+Ignore the proof of work in this discussion - it will only muddy the water
+Since transactions have to be mined and agreed upon this will take time. 
+As a result there are NO return results from a transaction except whether it could be submitted properly.
+ The effect of a transaction is to: * Modify the Dapp's state (data space) * Store some data in the log by means of events that can
+ be monitored by off chain applications such as web apps or server apps.
+2) You can CALL functions that do NOT modify the state of the Dapp. 
+These are only executed by the local node because no consensus is required hence they execute immediately.
+ A called function can return data e.g. the day of month from a timestamp or the name of a Dapp.
+Note: A CALL works on the current state of a Dapp.
+A transaction will not be applied until it has been mined. Other transactions could have got there first and changed the state of the Dapp
+----------------------
+Thanks for this explanation. It makes a lot of sense.
+A thing I don't understand though is how routing of transactions takes places.
+Say I send a transaction to my local node (a dapp). I guess this local node begins sending it to all its peers. However these other nodes are busy executing other transactions and such. At what point does my transaction get executed? Only when all nodes have received my transaction? I can imagine this takes time so what do nodes do with my transaction while they are waiting for everyone else to receive it (if that is indeed what is happening)?
+As a result there are NO return results from a transaction except whether it could be submitted properly. The effect of a transaction is to: * Modify the Dapp's state (data space) * Store some data in the log by means of events that can be monitored by off chain applications such as web apps or server apps.
+So rather than returning modified data to me, a transaction/dapp/contract modifies its own internal state, and then I need to read this state with an external application or service to see the result?
+------------------
+This is where the MINING comes in.
+Miners stick the transactions together into blocks and submit them for consensus. Nothing has happened yet.
+Once the next block is agreed on, every node applies each transactions (in order) to alter the state of its internal "universe" part of which could be your Dapp. Each node may get there at slightly different times but they are "in sync" in the transaction by transaction view of things.
+Example - start a new Geth node in console mode and WHILE IT IS SYNCHRONISING repeatedly ask it for the balance of an account that has been in active over a period of time. You will see the balance changing as the synchronisation of the chain on that machines progresses. You are seeing a timelapse view of that account. The same would apply to monitoring the state of a Dapp.
+Yes - pretty much. Even if you use MIST (Ethereum Wallet) simply to read the variables or monitor the events.
+You can play with this using Remix.
+try posting this code in at remix.ethereum.org and playing with it.
+pragma solidity ^0.4.0;
+
+contract cx {
+
+  uint public num;
+
+  function setNum(uint n) {
+      num = n;
+  }
+
+    function isOdd() constant returns (bool) {
+        return ((num % 2) == 1);
+    }
+}
+==============================
+Digix, Maker, Colony, AKASHA, ROULΞTH, Plutus, REIDAO, Raiden, Swarm vDice, SingularDTV, Braveno, Etheropt, otlw, Etherdelta,
+ Swarm, Augur, Jaak, FreeMyVunk, RealityKeys, Golem, EOL, ConsenSys (TransactiveGrid, UJO Music, Gnosis, uPort, 
+ PokerETH (Provable fair online poker game)), ICONOMI, Melonport, EthSlurp, Decibel.LIVE, cPay, Rex, DinarDirham,
+ Embark, Dindle (Decentralised eBook Market), Ownage, Sphere10 Software, CommunityBlockChain, Provenance, FirstBlood, EtherEx
