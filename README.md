@@ -6,12 +6,15 @@ https://www.reddit.com/r/AskReddit/comments/724nqb/serious_in_what_accidental_wa
 
 https://archive.org/stream/RobertGloverNoMoreMrNiceGuy/Robert_Glover_-_No_More_Mr_Nice_Guy_djvu.txt
 
-Id card change - 160 
-Fare 520 - 600
+Id card change - 160  --deffered 5/18
+---------
+Fare 510
 portable tv - 80-100
 cloth - 400
 Misc items - 200
   candles
   cleaning ...
 in hand - 500
-mobile - ?
+mobile - 600
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.7936&rep=rep1&type=pdf
