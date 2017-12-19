@@ -6,6 +6,8 @@ https://www.reddit.com/r/AskReddit/comments/724nqb/serious_in_what_accidental_wa
 
 https://archive.org/stream/RobertGloverNoMoreMrNiceGuy/Robert_Glover_-_No_More_Mr_Nice_Guy_djvu.txt
 
+https://cs.stackexchange.com/questions/85327/why-is-writing-down-mathematical-proofs-more-fault-proof-than-writing-computer-c
+
 Id card change - 160  --deffered 5/18
 ---------
 Fare 510
