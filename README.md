@@ -4,9 +4,11 @@ http://dlx.b-ok.org/genesis/494000/bd5b57eede59ec506c35b87ea9aa0a21/_as/[Dion_Fo
 
 https://www.reddit.com/r/AskReddit/comments/724nqb/serious_in_what_accidental_way_did_your_parents/
 
-https://archive.org/stream/RobertGloverNoMoreMrNiceGuy/Robert_Glover_-_No_More_Mr_Nice_Guy_djvu.txt
-
 https://cs.stackexchange.com/questions/85327/why-is-writing-down-mathematical-proofs-more-fault-proof-than-writing-computer-c
+
+https://github.com/trailofbits/awesome-ethereum-security
+
+http://www.thesmartestcontract.com/8
 
 Id card change - 160  --deffered 5/18
 ---------
