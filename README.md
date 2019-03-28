@@ -7,3 +7,5 @@ https://github.com/trailofbits/awesome-ethereum-security
 http://www.thesmartestcontract.com/8
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.7936&rep=rep1&type=pdf
+
+http://krokodilmannchen.belgianboy.com/ethtrader-series/vitalikbuterin.mp3
