@@ -11,3 +11,5 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.7936&rep=rep1&type=
 http://krokodilmannchen.belgianboy.com/ethtrader-series/vitalikbuterin.mp3
 
 https://medium.freecodecamp.org/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3
+
+http://bl.ocks.org/d3noob/8375092
