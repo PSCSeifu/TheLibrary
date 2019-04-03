@@ -10,8 +10,14 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.7936&rep=rep1&type=
 
 http://krokodilmannchen.belgianboy.com/ethtrader-series/vitalikbuterin.mp3
 
+// js scrape resources
+
 https://medium.freecodecamp.org/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3
+
+// d3 samples 
 
 http://bl.ocks.org/d3noob/8375092
 
 http://bl.ocks.org/d3noob/9662ab6d5ac823c0e444
+
+https://observablehq.com/@d3/sunburst
