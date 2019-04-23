@@ -23,3 +23,14 @@ http://bl.ocks.org/d3noob/9662ab6d5ac823c0e444
 https://observablehq.com/@d3/sunburst
 
 https://www.d3-graph-gallery.com/all.html
+
+// NLP + Fuzzy sets + ...
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://richard.bergmair.eu/pub/mphil-slides-full.pdf
+
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://crl.ucsd.edu/~elman/Papers/fsit.pdf
+
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/1301.3781.pdf#cite.Hinton
+
+https://www.tensorflow.org/tutorials/representation/word2vec
+
+https://reader.elsevier.com/reader/sd/pii/S187705091732505X?token=469C5D9638AFB418556D5CD46EF712BE858CEBED924EF8F6D0B8215A6AAB50B1206B51807329BA8EC595EA0534BFFD7F
