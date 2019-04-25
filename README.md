@@ -36,3 +36,5 @@ https://www.tensorflow.org/tutorials/representation/word2vec
 https://reader.elsevier.com/reader/sd/pii/S187705091732505X?token=469C5D9638AFB418556D5CD46EF712BE858CEBED924EF8F6D0B8215A6AAB50B1206B51807329BA8EC595EA0534BFFD7F
 
 https://www.searchtechnologies.com/blog/natural-language-processing-techniques
+
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.amitavadas.com/Pub/ACII_JU.pdf
