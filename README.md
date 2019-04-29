@@ -38,3 +38,5 @@ https://reader.elsevier.com/reader/sd/pii/S187705091732505X?token=469C5D9638AFB4
 https://www.searchtechnologies.com/blog/natural-language-processing-techniques
 
 chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.amitavadas.com/Pub/ACII_JU.pdf
+
+https://dzone.com/articles/text-mined-knowledge-graphs-beyond-text-mining
