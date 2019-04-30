@@ -10,6 +10,10 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.7936&rep=rep1&type=
 
 http://krokodilmannchen.belgianboy.com/ethtrader-series/vitalikbuterin.mp3
 
+//Good library writing sample 
+
+https://github.com/mariusschulz/ExtraLINQ/blob/master/src/app/ExtraLINQ/IEnumerable/Without.cs
+
 // js scrape resources
 
 https://medium.freecodecamp.org/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3
