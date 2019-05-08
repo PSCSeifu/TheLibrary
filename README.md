@@ -10,6 +10,8 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.7936&rep=rep1&type=
 
 http://krokodilmannchen.belgianboy.com/ethtrader-series/vitalikbuterin.mp3
 
+https://mybuild.techcommunity.microsoft.com/sessions/77290?source=sessions#top-anchor
+
 //Good library writing sample 
 
 https://github.com/mariusschulz/ExtraLINQ/blob/master/src/app/ExtraLINQ/IEnumerable/Without.cs
